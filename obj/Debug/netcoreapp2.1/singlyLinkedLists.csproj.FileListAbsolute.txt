@@ -1,0 +1,11 @@
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\singlyLinkedLists\singlyLinkedLists\bin\Debug\netcoreapp2.1\singlyLinkedLists.deps.json
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\singlyLinkedLists\singlyLinkedLists\bin\Debug\netcoreapp2.1\singlyLinkedLists.runtimeconfig.json
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\singlyLinkedLists\singlyLinkedLists\bin\Debug\netcoreapp2.1\singlyLinkedLists.runtimeconfig.dev.json
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\singlyLinkedLists\singlyLinkedLists\bin\Debug\netcoreapp2.1\singlyLinkedLists.dll
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\singlyLinkedLists\singlyLinkedLists\bin\Debug\netcoreapp2.1\singlyLinkedLists.pdb
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\singlyLinkedLists\singlyLinkedLists\obj\Debug\netcoreapp2.1\singlyLinkedLists.csprojAssemblyReference.cache
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\singlyLinkedLists\singlyLinkedLists\obj\Debug\netcoreapp2.1\singlyLinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\singlyLinkedLists\singlyLinkedLists\obj\Debug\netcoreapp2.1\singlyLinkedLists.AssemblyInfoInputs.cache
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\singlyLinkedLists\singlyLinkedLists\obj\Debug\netcoreapp2.1\singlyLinkedLists.AssemblyInfo.cs
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\singlyLinkedLists\singlyLinkedLists\obj\Debug\netcoreapp2.1\singlyLinkedLists.dll
+C:\Users\sherold\Desktop\CodingDojo\C#\C#_projects\c#Fundamentals\singlyLinkedLists\singlyLinkedLists\obj\Debug\netcoreapp2.1\singlyLinkedLists.pdb
